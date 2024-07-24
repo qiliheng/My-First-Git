@@ -1,5 +1,3 @@
-// index.js
-
 console.log("Hello World");
 
 function addNumbers(a, b) {
