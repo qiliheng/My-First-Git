@@ -21,4 +21,8 @@ Week | Content
 9 | 	Week 9 - MongoDB via NodeJS and Angular
 10 | 	Week 10 - Unit and Integration Testing
 11 | Week 11 - End-to-End Testing
+<<<<<<< HEAD
 12 | Assignment Phase 2 Demonstration
+=======
+12 | Assignment Phase 2 Demonstration
+>>>>>>> d9a2213d2f2285fe7a91918a6292622e4158a8f4
